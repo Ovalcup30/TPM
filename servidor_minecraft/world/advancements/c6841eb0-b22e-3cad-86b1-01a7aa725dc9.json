@@ -1,0 +1,27 @@
+{
+  "death_angels:death_angel_advancement": {
+    "criteria": {
+      "death_angel_advancement_0": "2025-07-12 21:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-07-12 21:46:14 +0000"
+    },
+    "done": true
+  },
+  "no_moon:no_moon_adv": {
+    "criteria": {
+      "no_moon_adv_0": "2025-07-12 21:46:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-07-12 21:46:15 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
